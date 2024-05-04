@@ -9,7 +9,7 @@ The dataset used for this analysis can be found [here](https://www.kaggle.com/da
 ## Usage
 1. Clone this repository.
 2. Download the dataset from the provided link and place it in the same directory as the notebook.
-3. Open the Jupyter Notebook `sentiment_analysis.ipynb`.
+3. Open the Jupyter Notebook `project_ddm1234.ipynb`.
 4. Run the code cells sequentially to execute the analysis.
 
 ## Collaborators
