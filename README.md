@@ -11,3 +11,6 @@ The dataset used for this analysis can be found [here](https://www.kaggle.com/da
 2. Download the dataset from the provided link and place it in the same directory as the notebook.
 3. Open the Jupyter Notebook `sentiment_analysis.ipynb`.
 4. Run the code cells sequentially to execute the analysis.
+
+## Collaborators
+- [UsamaIbrahim98](https://github.com/UsamaIbrahim98): Collaborated on the development of this project.
